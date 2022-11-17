@@ -1,6 +1,6 @@
 ---
 title: 'new note heyyy'
-status: 'draft'
+status: 'published'
 author:
   name: 'Dinesh Pandiyan'
   picture: 'https://avatars.githubusercontent.com/u/5777880?v=4'
